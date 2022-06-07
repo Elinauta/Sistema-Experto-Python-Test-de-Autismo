@@ -3,5 +3,6 @@ Con este sistema experto basado en reglas se trata de demostrar el motor de infe
 
 Ejecutable en itch.io
 https://elycuaya.itch.io/test-del-espectro-autista
+
 Vídeo demostrativo en youtube
 https://youtu.be/sDe44T2mv-E
